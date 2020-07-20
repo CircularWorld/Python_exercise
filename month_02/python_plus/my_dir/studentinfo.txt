@@ -1,0 +1,1 @@
+{'id': '1001', 'name': '喜来乐', 'englist': 88, 'python': 77, 'c_language': 99}
